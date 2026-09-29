@@ -1,0 +1,11 @@
+{
+  "name": "SVODEB",
+  "short_name": "SVODEB",
+  "description": "Sociedad Venezolana de Operatoria Dental, Estética y Biomateriales",
+  "lang": "es-VE",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#08213d",
+  "background_color": "#f5f7f9",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
